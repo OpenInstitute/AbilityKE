@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (3730 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="4761150" visible="true" version="18" changeset="69083121" timestamp="2019-04-10T13:30:48Z" user="Jnanesh Nanjundaiah" uid="8782056">
+  <nd ref="280118419"/>
+  <nd ref="280118427"/>
+  <nd ref="6364019650"/>
+  <nd ref="6364019649"/>
+  <nd ref="6285633443"/>
+  <nd ref="280118428"/>
+  <nd ref="280118429"/>
+  <nd ref="280118430"/>
+  <nd ref="3700958189"/>
+  <nd ref="280118431"/>
+  <nd ref="6364019648"/>
+  <nd ref="280118432"/>
+  <nd ref="280118433"/>
+  <nd ref="3700958195"/>
+  <nd ref="280118434"/>
+  <nd ref="30402739"/>
+  <nd ref="6396344343"/>
+  <nd ref="6364019647"/>
+  <nd ref="30295141"/>
+  <nd ref="6375709021"/>
+  <nd ref="30402730"/>
+  <nd ref="6375709020"/>
+  <nd ref="6375709022"/>
+  <nd ref="260361263"/>
+  <nd ref="2763487750"/>
+  <nd ref="260361264"/>
+  <nd ref="6375709019"/>
+  <nd ref="260361265"/>
+  <nd ref="280991850"/>
+  <nd ref="5339412917"/>
+  <nd ref="5339409339"/>
+  <nd ref="6375709018"/>
+  <nd ref="2751498981"/>
+  <nd ref="2751498982"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="name" v="Westlands Road"/>
+ </way>
+</osm>
